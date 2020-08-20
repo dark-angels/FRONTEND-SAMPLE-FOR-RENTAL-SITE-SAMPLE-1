@@ -1,0 +1,119 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+@font-face{
+	font-family:'racing one';
+	src:url('RacingSansOne-Regular.ttf');
+}
+
+body{
+	background: url(image-cycle/simon-english-48nerZQCHgo-unsplash.jpg);
+	background-size:1500px 900px;
+
+
+}
+
+
+.header1{
+	font-size: 50px;
+	text-align: right;
+	padding-right: 25px;
+	padding-top: 20px;
+	opacity: 0.35;
+}
+
+
+.formho{
+	margin-top: px;
+	margin-right: 200px;
+	margin-left: 400px;
+	
+}
+
+table{
+	background: rgba(97 ,58, 39,0.5);
+	border-radius: 10px;
+	
+}
+
+table:hover{
+	background:url(image-home/tenor.gif);
+	background-size: 500px 300px;
+}
+table tr th label{
+	font-family: 'racing one';
+	color:white;
+}
+
+.hairan{
+
+	font-family: 'Cabin Sketch';
+	font-size:25px;
+	padding-bottom: 20px;
+	color:white;
+}
+
+.vehicekonam{
+	margin-top:5px;
+	padding-bottom:10px;
+	color:white;
+	font-size: 20px;
+	font-family: 'Caladea';
+}
+
+
+.dates{
+	padding-top:10px;
+	padding-bottom:20px;
+	color:white;
+	font-family: 'Caladea';
+
+}
+
+.katiota{
+	padding-top:10px;
+	padding-bottom:20px;
+	color:white;
+	font-family: 'Caladea';
+	font-size: 20px;	
+}
+
+.katiota2{
+	padding-top:10px;
+	padding-bottom:20px;
+	color:white;
+	font-family: 'Caladea';
+	font-size: 20px;	
+}
+
+.btn{
+	
+	font-family: 'racing one';
+	text-decoration: none;
+	margin-left: 200px;
+	font-size: 20px;
+	border-radius: 10px;
+	background:blue;
+	color:white;
+	cursor:pointer;
+}
+
+.btn1{
+	font-family: 'racing one';
+	text-decoration: none;
+	margin-right: 200px;
+	text-decoration: none;
+	font-size: 20px;
+	border-radius: 10px;
+	background:blue;
+	color:white;
+}
+.btn:hover{
+	color:black;
+}
+.btn1:hover{
+	color:black;
+}
+
